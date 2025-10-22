@@ -15,7 +15,7 @@ import pandas as pd
 # -------------------------------
 # Load your dataframe
 # -------------------------------
-df = pd.read_csv("/Users/nielspeterjorgensen/.spyder-py3/cod_landings_with_coords.csv", encoding="utf-8")
+df = pd.read_csv("/Users/nielspeterjorgensen/Library/CloudStorage/OneDrive-SyddanskUniversitet/Projekter/Landings_dash/cod_landings_with_coords.csv", encoding="utf-8")
 
 # -------------------------------
 # Load your dataframe
